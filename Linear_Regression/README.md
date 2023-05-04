@@ -9,4 +9,4 @@ fx - Filtered x-values (i.e. the input x-values but without the outlier points),
 fy - Filtered y-valeus (i.e. the input y-values but without the outlier points), sorted from smallest to largest
 Slope - slope from the linear regression line
 Intercept - y intercepts from the linear regression line
-Rsquared - Rsquared value
+Rsquared - Rsquared value which is a statistical measure of how well the regression line approximates the actual data.
