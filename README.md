@@ -1,2 +1,2 @@
 # MECH105_algorithms
-All of the matlab algorithms that I have created for my Mech 105 class at CSU
+This is a collection of all the matlab alrogithms that I had made during my Mech 105 class at CSU.
