@@ -1,4 +1,5 @@
 This matlab algorithm is for naive gauss elimation to solve systems of equations. Solves the system Ax = b using the elimination, A must be a square matrix. Solves the system of equations by eliminating terms and repeating until one variable leff. Then does back substitution to solve for the rest of the variables.
+
 ---
 ## Inputs: ##
 
