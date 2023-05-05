@@ -2,6 +2,7 @@ This matlab algorithm is for numerical integation using the simpsons 1/3 rule. I
 
 Inputs:
 x - array of x values
+
 y - array of y values
 
 Output:
