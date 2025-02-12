@@ -1,5 +1,5 @@
-This is a matlab code that uses the root finding method of False position. It takes two inital points on your function that have different signs and makes a secant line 
-between them. Where this line crosses the x intercept is the first guess. Then it recreates the guesses using the new one until it reaches the desired relative error.   
+This is a matlab code that uses the root-finding method of False position. It takes two initial points on your function that have different signs and makes a secant line 
+between them. Where this line crosses the x-intercept is the first guess. Then it recreates the guesses using the new one until it reaches the desired relative error.   
 
 ---
 
